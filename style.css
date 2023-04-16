@@ -1,0 +1,13 @@
+body{
+
+
+    background: url("moon.png"), url('space.jpg');
+    background-size: cover;
+
+    background-repeat: no-repeat;
+    min-height: 2000px;
+}
+
+
+/* .cloud1 img{
+    /* border: 3px solid white; */
